@@ -1,4 +1,7 @@
 This is a C++ Code for Riemann Exact Solver 
 The code is inspired by Professor Toro's book Riemann Solvers and Numerical Methods for Fluid Dynmaics, where a FORTRAN version is found. 
-There is a Shell script attached which should run the code 
+As a demonstration, The Riemann Exact Solver is built to solve Euler's Equations.
+There is a Shell script attached which should run the code and output the ploting file.
+You can use gunplot (recommended) or python/matlab evenb excel to plot the data.
+The data contians for attributes: Density, velocity, pressure and internal energy.
 I often run the exact solver as a comparsion for approximation method such as HLLC-MUSCL HANCOCK or FORCE Scheme
