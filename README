@@ -1,0 +1,4 @@
+This is a C++ Code for Riemann Exact Solver 
+The code is inspired by Professor Toro's book Riemann Solvers and Numerical Methods for Fluid Dynmaics, where a FORTRAN version is found. 
+There is a Shell script attached which should run the code 
+I often run the exact solver as a comparsion for approximation method such as HLLC-MUSCL HANCOCK or FORCE Scheme
